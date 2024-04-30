@@ -1,0 +1,1 @@
+# HICP-Gross-Inflation-rate-prediction-and-Livelihood-analysis-using-Time-Series-ARIMA-Modelling
